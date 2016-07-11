@@ -1,0 +1,1 @@
+Coucou, je vous raconte ma vie. Je suis ce cours sur Git pour comprendre ce que je fais, parce qu'à la base, je suis en train d'installer des plugins pour utiliser LaTeX sous Vim (entre autres), que je suis égalemnt en train d'apprendre... Bref. 
